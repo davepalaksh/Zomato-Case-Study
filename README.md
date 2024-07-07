@@ -6,13 +6,7 @@ This project involves analyzing the Zomato dataset to uncover insights about var
 Dataset Information:-
 The dataset used in this project contains information about restaurants listed on Zomato, including:
 
-Restaurant names
-Locations
-Cuisines
-Ratings
-Cost for two
-Number of votes
-
+Restaurant names,Locations,Cuisines,Ratings,Cost for two,Number of votes
 
 Analysis
 The analysis includes:
@@ -26,19 +20,19 @@ Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
 Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make your changes and commit them:
-bash
-Copy code
-git commit -m 'Add your commit message'
-Push to the branch:
-bash
-Copy code
-git push origin feature/your-feature-name
-Create a pull request.
+-Create a new branch:
+-bash
+-Copy code
+-git checkout -b feature/your-feature-name
+-Make your changes and commit them:
+-bash
+-Copy code
+-git commit -m 'Add your commit message'
+-Push to the branch:
+-bash
+-Copy code
+-git push origin feature/your-feature-name
+-Create a pull request.
 
 Contact
 For any questions or suggestions, please contact:
