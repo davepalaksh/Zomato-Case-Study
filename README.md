@@ -1,13 +1,5 @@
-Zomato Dataset Analysis
-Table of Contents
-Project Description
-Dataset Information
-Installation
-Usage
-Analysis
-Contributing
-License
-Contact
+Zomato Case Study 
+
 Project Description
 This project involves analyzing the Zomato dataset to uncover insights about various restaurants, cuisines, and customer preferences. The analysis includes data cleaning, visualization, and applying machine learning algorithms to predict restaurant ratings and other trends.
 
@@ -20,6 +12,8 @@ Cuisines
 Ratings
 Cost for two
 Number of votes
+
+
 Installation
 To run this project locally, follow these steps:
 
@@ -41,7 +35,7 @@ After installation, you can run the Jupyter notebook to perform the analysis. Op
 bash
 Copy code
 jupyter notebook
-Open Zomato_Data_Analysis.ipynb to see the analysis and visualizations.
+Open edazom.ipynb to see the analysis and visualizations.
 
 Analysis
 The analysis includes:
@@ -49,6 +43,7 @@ The analysis includes:
 Data Cleaning: Handling missing values and outliers.
 Exploratory Data Analysis (EDA): Visualizing the distribution of ratings, costs, and other features.
 Machine Learning: Building models to predict restaurant ratings based on various features.
+
 Contributing
 Contributions are welcome! Please follow these steps to contribute:
 
@@ -71,8 +66,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 For any questions or suggestions, please contact:
-
-Your Name: palakshdave@gmail
+palakshdave@gmail.com
 GitHub: davepalaksh
 
 
